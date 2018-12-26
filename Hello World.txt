@@ -1,3 +1,4 @@
 print('hello world')
 print('Hren vam')
 print('Nova stroka')
+print('eho odna stroka')
